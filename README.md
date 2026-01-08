@@ -19,5 +19,5 @@
 - `Netflix_Tableau_Dashboard.pdf` – Final dashboard export
 
 ## 👩‍💻 Author
-**Jyothi Nori**  
-Senior Business Reporting Analyst | Aspiring Data Scientist
+**Jyothi Meher Nori**  
+Senior Business Reporting Analyst 
